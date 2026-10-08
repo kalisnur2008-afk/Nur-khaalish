@@ -1,6 +1,6 @@
 # Konfigurasi Halaman
 st.set_page_config(page_title="Youtube Niche AI", page_icon="💪")
-‎st.tittle(" AI Analisa Niche Youtube") 
+‎st.header ("AI Analisa Niche Youtube")
 ‎st.caption("Agen AI khusus untuk mencari niche YouTube dengan RPM tinggi & persaingan rendah.")
 ‎
 ‎# --- PENTING: Ganti URL di bawah ini dengan URL Webhook dari n8n kamu ---
