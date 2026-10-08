@@ -1,5 +1,5 @@
 # Konfigurasi Halaman
-‎st.set_page_config(page_title="YouTube Niche AI", page_icon="📈")
+st.set_page_config(page_title="Youtube Niche AI", page_icon="💪")
 ‎st.title("📈 AI Analisa Niche YouTube")
 ‎st.caption("Agen AI khusus untuk mencari niche YouTube dengan RPM tinggi & persaingan rendah.")
 ‎
