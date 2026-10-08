@@ -67,4 +67,4 @@ if prompt := st.chat_input("Ketik niche yang ingin dianalisa (misal: 'Keuangan' 
     # Simpan balasan AI ke dalam memori sesi
     st.session_state.messages.append({"role": "assistant", "content": ai_reply})
 
-‎
+‎ 
