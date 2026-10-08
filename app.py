@@ -1,7 +1,7 @@
 # Konfigurasi Halaman
 st.set_page_config(page_title="Youtube Niche AI", page_icon="💪")
 
-‎st.caption("Agen AI khusus untuk mencari niche YouTube dengan RPM tinggi & persaingan rendah.")
+ ‎st.caption("Agen AI khusus untuk mencari niche YouTube dengan RPM tinggi & persaingan rendah.")
 ‎
 ‎# --- PENTING: Ganti URL di bawah ini dengan URL Webhook dari n8n kamu ---
 ‎N8N_WEBHOOK_URL = "https://n8n-j0rtdedyllcf.jkt2.sumopod.my.id/webhook-test/2dd390bf-a190-40a6-9e68-6b56ef760f06
